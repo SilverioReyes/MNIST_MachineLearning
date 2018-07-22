@@ -10,7 +10,7 @@
 #                   MNIST as if it were "Hello World" for writing
 #                   your first lines in programming.
 #
-# Task:             First this program, we will be training a model
+# Task:             For this program, we will be training a model
 #                   to look at images and predict what digits they
 #                   are.
 #
