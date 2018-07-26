@@ -1,6 +1,6 @@
 ##################################################################
-# Author:	        Silverio Reyes
-# Filename:	        MNIST_ML_ComputerVisionDataSet.py
+# Author:           Silverio Reyes
+# Filename:         MNIST_ML_ComputerVisionDataSet.py
 # Date Created:     07/21/2018
 # Organization:     Oregon Institute of Technology
 #
