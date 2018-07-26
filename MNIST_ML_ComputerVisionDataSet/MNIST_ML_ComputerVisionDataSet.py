@@ -84,7 +84,7 @@ accuracy = tf.reduce_mean(tf.cast(correct_prediction, tf.float32))
 # Display the accuracy on the test data
 # Should be about 92% ceiling, but needs improvement
 # Capture log errors. This might be unnessesary
-tf.logging.set_verbosity(old_v)
+#tf.logging.set_verbosity(old_v)
 print(session.run(accuracy, feed_dict={x: mnist.test.images, y_: mnist.test.labels}))
 
 
